@@ -1,7 +1,7 @@
 # trivago-magazine-challenge-nuxtjs
 
 > This nuxt app is created for trivago magazine challenge as responsive and seo friendly site.
-> Dockerized and published at link below.
+Dockerized and published at link below.
 
 https://cloud.docker.com/repository/docker/emretinaz/trivago-mazagine-challenge-nuxt
 
