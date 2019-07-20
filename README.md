@@ -2,6 +2,8 @@
 
 > This nuxt app is created for trivago magazine challenge as responsive and seo friendly site.
 
+https://cloud.docker.com/repository/docker/emretinaz/trivago-mazagine-challenge-nuxt
+
 ## Build Setup
 
 ``` bash
